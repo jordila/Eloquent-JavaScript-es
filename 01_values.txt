@@ -11,7 +11,7 @@ ____
 Debajo de la superficie de la
 máquina, el programa se mueve. Sin esfuerzo, se expande y contrae.
 En gran armonía, los electrones se separan y reagrupan. Las formas en
-el monitor no son más que ondas en el agua. La escencia permanece
+el monitor no son más que ondas en el agua. La esencia permanece
 invisible debajo.
 ____
 
@@ -47,8 +47,8 @@ que equivale a 13.
 
 == Valores ==
 
-(((memoria)))(((alamacenamiento de datos volátil)))(((disco duro)))Imagina
-un mar de bits. Un océano de estos. Una computadora moderna típica
+(((memoria)))(((almacenamiento de datos volátil)))(((disco duro)))Imagina
+un mar de bits. Un océano de ellos. Una computadora moderna típica
 tiene más de 30 mil millones de bits en su almacenamiento de datos
 volátil. El almacenamiento no volátil (el disco duro o su equivalente)
 tiene un par de órdenes de magnitud más todavía.
@@ -65,7 +65,7 @@ valores en JavaScript: números, cadenas, Booleanos, objetos, funciones,
 y valores indefinidos.
 
 (((recolección de basura)))Para crear un valor, sólo tienes que invocar
-su nombre. Esto es conveniente. No tienes que reuinir el material de
+su nombre. Esto es conveniente. No tienes que reunir el material de
 construcción de tus valores o pagar por ellos. Sólo llamas uno y _woosh_,
 lo tienes. No son creados de la nada, por supuesto. Cada valor tiene que
 estar almacenado en algún lugar, y si quieres usar una cantidad enorme
@@ -145,7 +145,7 @@ números enteros (en inglés llamados _((integer))_) más pequeños que el supra
 cálculos con números fraccionarios generalmente no lo son. Justo como π (pi)
 no puede ser expresado precisamente por un número finito de dígitos decimales,
 muchos números pierden algo de precisión cuando sólo hay 64 bits disponibles
-para guardarlos. Esto es una pena, pero causa problemas prácticos sólo en
+para guardarlos. Esto es una lástima, pero causa problemas prácticos sólo en
 algunas situaciones específicas. Lo importante es estar al tanto de
 esto y tratar a los números digitales fraccionarios como aproximaciones
 y no como valores precisos.
